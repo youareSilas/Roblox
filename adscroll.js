@@ -1,0 +1,1 @@
+window.EASYFUN_ADS_CAN_RUN = true
